@@ -1,9 +1,7 @@
-package com.mutemi.leetcode.intersectionof2arrays;
+package com.mutemi.leetcode.arrays.intersectionof2arrays;
 
 import java.time.LocalDateTime;
-import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.List;
 
 public class Solution {
     public int[] intersect(int[] nums1, int[] nums2) {

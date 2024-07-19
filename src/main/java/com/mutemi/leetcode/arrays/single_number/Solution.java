@@ -1,6 +1,4 @@
-package com.mutemi.leetcode.single_number;
-
-import java.util.Arrays;
+package com.mutemi.leetcode.arrays.single_number;
 
 public class Solution {
 //    public int singleNumber(int[] nums) {

@@ -1,4 +1,4 @@
-package com.mutemi.leetcode.largeinteger;
+package com.mutemi.leetcode.arrays.largeinteger;
 
 import java.util.Arrays;
 

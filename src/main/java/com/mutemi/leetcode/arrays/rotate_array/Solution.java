@@ -1,4 +1,4 @@
-package com.mutemi.leetcode.rotate_array;
+package com.mutemi.leetcode.arrays.rotate_array;
 
 class Solution {
     public void rotate(int[] nums, int k) {

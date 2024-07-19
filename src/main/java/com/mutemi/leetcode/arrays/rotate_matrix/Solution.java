@@ -1,4 +1,4 @@
-package com.mutemi.leetcode.rotate_matrix;
+package com.mutemi.leetcode.arrays.rotate_matrix;
 
 /*
     https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/770/

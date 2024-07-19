@@ -1,4 +1,4 @@
-package com.mutemi.leetcode.contains_duplicate;
+package com.mutemi.leetcode.arrays.contains_duplicate;
 
 import java.util.Arrays;
 import java.util.HashSet;

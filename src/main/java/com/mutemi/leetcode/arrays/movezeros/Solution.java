@@ -1,6 +1,4 @@
-package com.mutemi.leetcode.movezeros;
-
-import java.util.Arrays;
+package com.mutemi.leetcode.arrays.movezeros;
 
 public class Solution {
     public void moveZeroes(int[] nums) {

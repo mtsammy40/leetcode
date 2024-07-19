@@ -1,4 +1,4 @@
-package com.mutemi.leetcode.two_sum;
+package com.mutemi.leetcode.arrays.two_sum;
 
 import java.util.Arrays;
 import java.util.HashMap;

@@ -1,4 +1,4 @@
-package com.mutemi.leetcode.validsudoku;
+package com.mutemi.leetcode.arrays.validsudoku;
 
 import java.util.HashSet;
 import java.util.Set;
