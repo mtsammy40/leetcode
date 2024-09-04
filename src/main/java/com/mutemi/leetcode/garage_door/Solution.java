@@ -116,26 +116,6 @@ public class Solution {
         return currentState;
     }
 
-    static int proceedWithState4(int currentState, String currentMotion, boolean isPaused) {
-        if (currentMotion.equalsIgnoreCase("static")) {
-            return 0;
-        } else if (currentMotion.equalsIgnoreCase("opening")) {
-            if (isPaused) {
-                return currentState;
-            }
-            if (currentState >= 5) {
-                return 5;
-            }
-            return currentState + 1;
-        } else if (currentMotion.equalsIgnoreCase("closing")) {
-            if (currentState <= 1) {
-                return 0;
-            }
-            return currentState - 1;
-        }
-        return currentState;
-    }
-
     static int reverse(int currentState) {
         if (currentState < 5 && currentState > 0) {
             return currentState - 1;
